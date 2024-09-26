@@ -24,3 +24,6 @@ The run the python script
 ```bash
 $ python3 src/tile_images.py
 ```
+
+## Screenshots
+![verde_marble](screenshots/sebdesk.jpg)

@@ -20,10 +20,16 @@ Change the following constants to desired resolution
 TILED_WIDTH = 1920
 TILED_HEIGHT = 1080
 ```
-The run the python script 
+Then run the python script 
 ```bash
 $ python3 src/tile_images.py
 ```
+
+The tiled wallpapers will be in: 
+
+```bash
+$ cd irix_wallpapers/* 
+``` 
 
 ## Screenshots
 ![verde_marble](screenshots/sebdesk.jpg)

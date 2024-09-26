@@ -7,6 +7,9 @@ In PNG format ... with french fries ... also tiled.
 Create a python virtual environment (Python 3.12.3)
 ```bash
 $ python3 -m venv .venv 
+
+$ sudo apt install python<ver>-venv (Ubuntu)
+
 $ source .venv/bin/activate 
 $ pip install -r requirements.txt
 ```

@@ -27,3 +27,4 @@ $ python3 src/tile_images.py
 
 ## Screenshots
 ![verde_marble](screenshots/sebdesk.jpg)
+![blue_marble](screenshots/sebdesk_blue.jpg)
